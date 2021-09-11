@@ -1,0 +1,5 @@
+file text ini dibuat dengan menggunakan python
+ini baris kedua
+ini baris ketiga
+ini baris keempat
+baris ini ditambahkan dengan mode append
